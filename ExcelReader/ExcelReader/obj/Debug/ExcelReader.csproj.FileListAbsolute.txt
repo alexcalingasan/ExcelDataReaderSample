@@ -1,0 +1,17 @@
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\MetroFramework.Design.dll
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\MetroFramework.dll
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\MetroFramework.Fonts.dll
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.Cache
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.CoreCompileInputs.cache
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelDataReader.dll
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelDataReader.xml
+C:\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelDataReader.DataSet.xml
